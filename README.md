@@ -1,6 +1,10 @@
 # EXP -3 Java program to fins the number of day in a month
 # Program
 ```
+Developed By : Vishal Gowthaman K R
+Reg No : 212221230123
+```
+```
 import java.util.Scanner;
 
 public class DaysInMonth {
